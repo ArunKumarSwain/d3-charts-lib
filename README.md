@@ -1,2 +1,2 @@
 # d3-charts-lib
-Chart library using d3 svg
+Zero configuration chart library developed using d3 and jquery
